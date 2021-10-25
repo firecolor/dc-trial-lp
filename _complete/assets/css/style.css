@@ -213,6 +213,7 @@ main {
 	border-radius: 2px;
 	box-shadow: 0 2px 0 0 #042944;
 	color: #fff;
+	font-size: 0.9rem;
 	text-decoration: none;
 	transform: translate(-50%, -50%);
 }
